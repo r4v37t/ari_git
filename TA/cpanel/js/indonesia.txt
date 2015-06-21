@@ -1,0 +1,18 @@
+{
+	"sLengthMenu": "Tampilkan _MENU_ data per halaman",
+	"oPaginate":{
+		"sFirst":"Awal",
+		"sLast":"Akhir",
+		"sNext":"Selanjutnya",
+		"sPrevious":"Sebelumnya"
+	},
+	"sEmptyTable":"Data masih kosong.",
+	"sInfo":"Menampilkan _START_ sampai _END_ dari total _TOTAL_ data",
+	"sSearch":"Pencarian",
+	"sInfoEmpty":"Menampilkan 0 sampai 0 dari total 0 data",
+	"sInfoFiltered":"(hasil dari total _MAX_ data)",
+	"sInfoThousands":".",
+	"sLoadingRecords":"Memuat...",
+	"sProcessing":"Sedang proses...",
+	"sZeroRecords":"Data yang dicari tidak ditemukan"
+}
